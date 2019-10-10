@@ -1,0 +1,2 @@
+# suricata-cfg
+suricata setup 
